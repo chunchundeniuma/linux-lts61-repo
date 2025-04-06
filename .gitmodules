@@ -1,0 +1,3 @@
+[submodule "linux-lts61"]
+	path = linux-lts61
+	url = https://aur.archlinux.org/linux-lts61.git
